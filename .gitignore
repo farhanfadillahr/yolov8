@@ -162,7 +162,7 @@ cython_debug/
 .vscode/
 .DS_Store
 # assets/
-.avi
-.mp4
-.pt
+**/*.avi
+**/*.mp4
+**/*.pt
 yolov8-streamlit-detection-tracking/
